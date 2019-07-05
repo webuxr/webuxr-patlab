@@ -25,5 +25,12 @@
     "gulp": "3.9.1",
     "minimist": "1.2.0",
     "starterkit-mustache-bootstrap": "github:pattern-lab/starterkit-mustache-bootstrap"
+  },
+  "devDependencies": {
+    "braces": ">=2.3.1",
+    "js-yaml": ">=3.13.1",
+    "morgan": ">=1.9.1",
+    "lodash": ">=4.17.11",
+    "mustache": ">=2.2.1"
   }
 }
